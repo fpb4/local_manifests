@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="fpb4/android_device_nvidia_shieldtablet" path="device/nvidia/shieldtablet" remote="github" />
+  <project name="fpb4/android_kernel_nvidia_shield" path="kernel/nvidia/shield" remote="github" />
+  <project name="fpb4/android_device_nvidia_shield-common" path="device/nvidia/shield-common" remote="github" />
+  <project name="fpb4/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" />
+  <project name="fpb4/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="fpb4/android_hardware_nvidia_libstagefrighthw" path="hardware/nvidia/libstagefrighthw" remote="github" />
+  <project name="fpb4/android_hardware_nvidia_power" path="hardware/nvidia/power" remote="github" />
+  <project name="fpb4/android_hardware_nvidia_thermal" path="hardware/nvidia/thermal" remote="github" />
+  <project name="fpb4/android_hardware_nvidia_sensors" path="hardware/nvidia/sensors" remote="github" />
+</manifest>
